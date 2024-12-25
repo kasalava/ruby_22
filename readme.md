@@ -1,3 +1,3 @@
-rubyschool, Lesson 22
+Lesson 22
 
 Git
